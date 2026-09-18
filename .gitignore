@@ -1,0 +1,19 @@
+# Local-only files (PC-specific paths and batch scripts)
+start_silent.vbs
+start_silent.bat
+launch_silent.vbs
+launch_quick.bat
+start.bat
+install_autostart.bat
+uninstall_autostart.bat
+run.bat
+
+# Local server / IDE
+.git/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
